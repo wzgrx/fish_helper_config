@@ -1,11 +1,11 @@
 {
   "alway": false,
   "title": "提示",
-  "intro":"该版本由 azwhikaru 提供，请勿滥用、滥改",
+  "intro":"",
   "exit": false,
   "show": true,
   "f": true,
   "url": "",
-  "time": 4,
+  "time": 0,
   "v": 3
 }
