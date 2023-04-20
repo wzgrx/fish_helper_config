@@ -3,7 +3,7 @@
   "title": "提示",
   "intro":"",
   "exit": false,
-  "show": true,
+  "show": false,
   "f": true,
   "url": "",
   "time": 0,
